@@ -1,4 +1,4 @@
-[# 📊 Bank Term Deposit Subscription Prediction
+# 📊 Bank Term Deposit Subscription Prediction
 
 This project uses machine learning to predict whether a client will subscribe to a term deposit based on bank marketing data.
 
@@ -11,10 +11,7 @@ This project uses machine learning to predict whether a client will subscribe to
 - Decision Tree
 - Random Forest
 - EDA, Preprocessing, Evaluation
-](https://github.com/Meghanac224/bank-marketing-analysis.git
-
-
-)
+(https://github.com/Meghanac224/bank-marketing-analysis.git)
 
 ---
 
