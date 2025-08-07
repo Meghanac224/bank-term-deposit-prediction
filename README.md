@@ -24,7 +24,7 @@ Click below to open this project in **Google Colab**:
 
 ## 👤 Author
 
-**Meghana**  
+**Chilakala Meghana Ranga Laxmi**  
 📅 *August 2025*
 
 ---
